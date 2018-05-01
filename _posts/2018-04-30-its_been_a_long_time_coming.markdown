@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "It's been a long time coming..."
-date:       2018-05-01 00:44:40 +0000
+date:       2018-04-30 20:44:41 -0400
 permalink:  its_been_a_long_time_coming
 ---
 
@@ -24,12 +24,12 @@ I started out my schooling search with a visit from a recruiter at the Art Insti
 
 I had to withdraw from AIA, realizing that my dreams of graphic design were pointless and I was getting older by the minute.  If I couldn't figure out what I was going to do and panic was starting to set in.  In the back of my mind, I heard that time-worn phrase reminding me that if I didn't get a college education, I'd end up making french fries for a living.  With my dream of graphic design tucked away deep down inside me, I embarked on an education in "Business Administration."  
 
-I'll spare you the boring details of what took place between schooling for my generic degree and about a year ago (aka current me).  It was about a year ago that I realized I needed to do something more with my work life.  I never felt fully satisfied with my decision to quit my dream and while clearly I wasn't cut out for that program, I knew there was something more that I wanted to do.  Subconciously I must have realized this as I had spent the past 6 years fulfilling my time outside of work with hobbies like:
+I'll spare you the boring details of what took place between schooling for my generic degree and about a year ago (aka current me).  It was aroudn that time that I realized I needed to do something more with my work life.  I never felt fully satisfied with my decision to quit my dream and while clearly I wasn't cut out for that program, I knew there was something more that I wanted to do.  Subconciously I must have realized this as I had spent the past 6 years fulfilling my time outside of work with hobbies like:
 * making soap
 * making small batch handheld pies
 * making various small crafts in my garage
 
-It became obvious that I loved creating... stuff.  It was an outlet to beat the 9 to 5 dreg and I wanted more of it.  While my soaps smelled nice, my pies tasted good and my washers sets (it's a midwestern thing) were killer, it wasn't anything I could make a career out of.  So queue that "about a year ago" phrase from earlier, I found myself digging... and digging... and digging more to find out what piqued my interest.  Through a couple of free bootcamp prep courses and a reminder of my software dev. friends in a previous career of mine did, I realize that coding brought me that same sense of happiness that my crafts did. * I could make things, with my own two hands, for others to enjoy AND get paid doing it!*  
+It became obvious that I loved creating... stuff.  It was an outlet to beat the 9 to 5 dreg and I wanted more of it.  While my soaps smelled nice, my pies tasted good and my washers sets (it's a midwestern thing) were killer, it wasn't anything I could make a career out of.  So queue that "about a year ago" phrase from earlier, I found myself digging... and digging... and digging more to find out what piqued my interest.  Through a couple of free bootcamp prep courses and a reminder of my software dev. friends in a previous career of mine did, I realize that coding brought me that same sense of happiness that my crafts did. *I could make things, with my own two hands, for others to enjoy AND get paid doing it!*  
 
 While I had no doubt that if I had an ounce of artist talent my left hand, I would have made a great graphic designer.  I don't regret anything about the way my life decisions have played out.  Would it have been great to see that youthful dream come true?  Sure.  Do I regret it?  No way at all.  I'm thrilled with where I am, looking forward to seeing where I'll go.
 
